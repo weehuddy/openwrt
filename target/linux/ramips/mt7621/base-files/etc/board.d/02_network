@@ -71,6 +71,7 @@ ramips_setup_interfaces()
 	humax,e10|\
 	keenetic,kn-3510|\
 	openfi,5pro|\
+        wavlink,ws-wn572hp3-a-v1-4|\
 	wavlink,ws-wn572hp3-4g|\
 	winstars,ws-wn583a6)
 		ucidef_set_interfaces_lan_wan "lan" "wan"
